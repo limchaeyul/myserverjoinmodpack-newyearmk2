@@ -1,0 +1,49 @@
+
+#DPS Meter Configuration
+[display]
+	#Show the main DPS overlay
+	show_overlay = true
+	#Show floating damage numbers
+	show_floating_numbers = false
+	#Enable dragging the GUI overlay with mouse
+	enable_gui_dragging = true
+
+[positioning]
+	#X position of overlay (0.0 to 1.0)
+	#Range: 0.0 ~ 1.0
+	overlay_x = 0.01
+	#Y position of overlay (0.0 to 1.0)
+	#Range: 0.0 ~ 1.0
+	overlay_y = 0.01
+	#Scale of overlay
+	#Range: 0.5 ~ 3.0
+	overlay_scale = 1.0
+
+[visual]
+	#Background transparency (0-255)
+	#Range: 0 ~ 255
+	overlay_background_alpha = 180
+	#DPS calculation update interval in ticks
+	#Range: 1 ~ 100
+	dps_update_interval = 10
+
+[combat]
+	#Combat timeout in ticks (20 = 1 second)
+	#Range: 20 ~ 1200
+	combat_timeout = 200
+	#Include pet/summon damage in calculations
+	track_pets_damage = true
+	#Show overkill damage in calculations
+	show_overkill_damage = false
+
+[auto_reset]
+	#Enable automatic DPS meter reset after inactivity
+	enable_auto_reset = false
+	#Auto reset timeout in seconds (0 = disabled)
+	#Range: 0 ~ 3600
+	auto_reset_timeout = 60
+	#Auto reset DPS meter when player dies
+	auto_reset_on_death = true
+	#Auto reset DPS meter when changing dimensions
+	auto_reset_on_dimension_change = true
+

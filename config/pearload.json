@@ -1,0 +1,8 @@
+{
+  "PrintDebugInfo": false,
+  "ForceLoaders": [
+    "minecraft:ender_pearl"
+  ],
+  "InitializeAllTheProjectilesAsChunkLoader": false,
+  "Version": "2"
+}

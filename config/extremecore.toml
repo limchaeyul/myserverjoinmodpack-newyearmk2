@@ -1,0 +1,51 @@
+
+[boss_despawn]
+	boss_despawn = true
+
+[damage_cap]
+	damage_cap = true
+
+[boss_life_regen]
+	boss_life_regen = true
+
+[boss_attack_cooldown]
+	#Applied multiplicatively. Example: 1 = 1x, 0.5 = 0.5x
+	reaper_phase1 = 1.0
+	reaper_phase2 = 1.0
+	lich_phase1 = 1.0
+	lich_phase2 = 1.0
+	FallenAngel_phase1 = 1.0
+	FallenAngel_phase2 = 1.0
+	End_Phoenix_Phase1 = 1.0
+	End_Phoenix_Phase2 = 1.0
+	Wither = 1.0
+	Blood_Zombie = 1.0
+	Existence_Of_Beyond_Phase1 = 1.0
+	Existence_Of_Beyond_Phase2 = 1.0
+	Lord_Phase1 = 1.0
+	Lord_Phase2 = 1.0
+
+[wither_remake]
+	#If set to true, additional patterns are used and damage caps are applied.
+	Wither_Remake = true
+
+[boss_damage_multiple]
+	Reaper = 1.0
+	Lich = 1.0
+	FallenAngel = 1.0
+	EndPhoenix = 1.0
+	Wither = 1.0
+	BloodZombie = 1.0
+	Existence_of_Beyond = 1.0
+	Lord = 1.0
+
+[boss_health_multiple]
+	Reaper = 1.0
+	Lich = 1.0
+	FallenAngel = 1.0
+	EndPhoenix = 1.0
+	Wither = 1.0
+	BloodZombie = 1.0
+	Existence_of_Beyond = 1.0
+	Lord = 1.0
+

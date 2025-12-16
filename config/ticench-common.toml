@@ -1,0 +1,91 @@
+#max level
+#Range: > 4
+MAX_ALL_DAMAGE_PROTECTION = 4
+#max level
+#Range: > 4
+MAX_FIRE_PROTECTION = 4
+#max level
+#Range: > 4
+MAX_BLAST_PROTECTION = 4
+#max level
+#Range: > 4
+MAX_PROJECTILE_PROTECTION = 4
+#max level
+#Range: > 4
+MAX_FALL_PROTECTION = 4
+#max level
+#Range: > 3
+MAX_RESPIRATION = 3
+#max level
+#Range: > 1
+MAX_AQUA_AFFINITY = 1
+#max level
+#Range: > 3
+MAX_THORNS = 3
+#max level
+#Range: > 3
+MAX_DEPTH_STRIDER = 3
+#max level
+#Range: > 2
+MAX_FROST_WALKER = 2
+#max level
+#Range: > 3
+MAX_SOUL_SPEED = 3
+#max level
+#Range: > 3
+MAX_SWIFT_SNEAK = 3
+#max level
+#Range: > 5
+MAX_SHARPNESS = 5
+#max level
+#Range: > 5
+MAX_SMITE = 5
+#max level
+#Range: > 5
+MAX_BANE_OF_ARTHROPODS = 5
+#max level
+#Range: > 2
+MAX_KNOCKBACK = 2
+#max level
+#Range: > 2
+MAX_FIRE_ASPECT = 2
+#max level
+#Range: > 3
+MAX_MOB_LOOTING = 3
+#max level
+#Range: > 3
+MAX_SWEEPING_EDGE = 3
+#max level
+#Range: > 5
+MAX_IMPALING = 5
+#max level
+#Range: > 5
+MAX_BLOCK_EFFICIENCY = 5
+#max level
+#Range: > 1
+MAX_SILK_TOUCH = 1
+#max level
+#Range: > 3
+MAX_BLOCK_FORTUNE = 3
+#max level
+#Range: > 5
+MAX_POWER_ARROWS = 5
+#max level
+#Range: > 2
+MAX_PUNCH_ARROWS = 2
+#max level
+#Range: > 1
+MAX_FLAMING_ARROWS = 1
+#max level
+#Range: > 1
+MAX_INFINITY_ARROWS = 1
+#max level
+#Range: > 1
+MAX_MULTISHOT = 1
+#max level
+#Range: > 3
+MAX_QUICK_CHARGE = 3
+#max level
+#Range: > 4
+MAX_PIERCING = 4
+

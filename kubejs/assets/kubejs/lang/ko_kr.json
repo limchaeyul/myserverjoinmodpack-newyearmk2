@@ -1,0 +1,10 @@
+{
+    "effect.kubejs.injury" : "부상",
+    "effect.kubejs.painkill" : "진통제",
+    "effect.kubejs.stimulant" : "각성",
+    "effect.kubejs.hootoo" : "흐트러짐",
+    "effect.kubejs.bleeding" : "출혈",
+    "effect.kubejs.sleepy" : "피곤함",
+    "effect.kubejs.infaction" : "감염",
+    "effect.kubejs.interference" : "간섭"
+}

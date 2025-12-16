@@ -1,0 +1,10 @@
+2025/12/14-17:44:45.314 50a0 Reusing MANIFEST C:\Users\human\Desktop\MultiMC\instances\1.20.1테스트\.minecraft\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/14-17:44:45.315 50a0 Recovering log #4
+2025/12/14-17:44:45.348 50a0 Reusing old log C:\Users\human\Desktop\MultiMC\instances\1.20.1테스트\.minecraft\mods\mcef-cache\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2025/12/14-17:44:49.171 5a3c Level-0 table #8: started
+2025/12/14-17:44:49.213 5a3c Level-0 table #8: 1396754 bytes OK
+2025/12/14-17:44:49.221 5a3c Delete type=0 #4
+2025/12/14-17:44:50.459 7570 Compacting 1@1 + 1@2 files
+2025/12/14-17:44:50.488 7570 Generated table #9@1: 369 keys, 25573 bytes
+2025/12/14-17:44:50.488 7570 Compacted 1@1 + 1@2 files => 25573 bytes
+2025/12/14-17:44:50.498 7570 compacted to: files[ 0 0 1 0 0 0 0 ]
